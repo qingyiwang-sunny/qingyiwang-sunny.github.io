@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sunny Qingyi Wang / Personal Homepage"
+title                    : "Qingyi Wang / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Sunny Qingyi Wang"
+name                     : &name "Qingyi (Sunny) Wang"
 description              : &description "personal description"
 url                      : https://qingyiwang-sunny.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "qingyiwang-sunny/qingyiwang-sunny.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sunny Qingyi Wang"
+  name             : "Qingyi (Sunny) Wang"
   pronouns         : "She/Her/Hers"  
   email            : "wqingyi@umich.edu" 
 
