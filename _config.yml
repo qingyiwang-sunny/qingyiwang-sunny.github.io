@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Qingyi Wang / Personal Homepage"
+title                    : "Sunny Qingyi Wang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Sunny Qingyi Wang"
 description              : &description "personal description"
