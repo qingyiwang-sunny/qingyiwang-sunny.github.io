@@ -23,7 +23,7 @@ repository               : "qingyiwang-sunny/qingyiwang-sunny.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Qingyi (Sunny) Wang"
+  name             : "Sunny Qingyi Wang"
   pronouns         : "She/Her/Hers"  
   email            : "wqingyi@umich.edu" 
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/qingyi-wang-0ab0b030b"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "https://x.com/qingyiwangsunny"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
